@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kush-dev
+- Hi am Allan Ngugi  @kush-dev 
 - 👀 I’m interested in programming which mostly includes website developmentand coding.
 - 🌱 I’m currently learning app development and have an experience of website programming for over 2 years 
 - 💞️ I’m looking to collaborate on website development ethical hacking tips and app deveopment
